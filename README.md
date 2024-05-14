@@ -465,6 +465,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oscar Tian](http://www.bluexguardian.com)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
+- [OSMX](https://osmx.me)
 
 ## P
 
